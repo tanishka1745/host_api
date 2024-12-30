@@ -1,0 +1,74 @@
+{
+  "repositories": [
+    {
+      "repo_name": "Project Alpha",
+      "owner_name": "Alex Johnson",
+      "description": "A web application for task management and team collaboration.",
+      "skill": "React",
+      "rating": 4.5
+    },
+    {
+      "repo_name": "Health Tracker",
+      "owner_name": "Maria Gomez",
+      "description": "An app to monitor daily health metrics and fitness goals.",
+      "skill": "Flutter",
+      "rating": 4.7
+    },
+    {
+      "repo_name": "EduLearn",
+      "owner_name": "Ravi Kumar",
+      "description": "An e-learning platform with video tutorials and quizzes.",
+      "skill": "Angular",
+      "rating": 4.8
+    },
+    {
+      "repo_name": "ShopEase",
+      "owner_name": "Emily Davis",
+      "description": "An e-commerce platform with AI-based recommendations.",
+      "skill": "Python",
+      "rating": 4.6
+    },
+    {
+      "repo_name": "Travel Buddy",
+      "owner_name": "Chris Wilson",
+      "description": "A travel planning app with itinerary management and booking features.",
+      "skill": "Swift",
+      "rating": 4.9
+    },
+    {
+      "repo_name": "Foodie",
+      "owner_name": "Sophia Lee",
+      "description": "A food delivery app with real-time tracking and recommendations.",
+      "skill": "Kotlin",
+      "rating": 4.8
+    },
+    {
+      "repo_name": "Finance Tracker",
+      "owner_name": "Michael Brown",
+      "description": "An app to track personal expenses and generate financial reports.",
+      "skill": "Java",
+      "rating": 4.5
+    },
+    {
+      "repo_name": "Portfolio Manager",
+      "owner_name": "Liam Taylor",
+      "description": "A tool to manage and analyze investment portfolios.",
+      "skill": "C++",
+      "rating": 4.6
+    },
+    {
+      "repo_name": "Fitness Pro",
+      "owner_name": "Emma Thomas",
+      "description": "A fitness app with workout plans and progress tracking.",
+      "skill": "React Native",
+      "rating": 4.7
+    },
+    {
+      "repo_name": "WeatherNow",
+      "owner_name": "Noah Martin",
+      "description": "A weather app providing real-time forecasts and alerts.",
+      "skill": "Flutter",
+      "rating": 4.4
+    }
+  ]
+}
